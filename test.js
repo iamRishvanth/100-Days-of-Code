@@ -3,6 +3,6 @@ let y = 27;
 
 res = x + y;
 
-res - 7;
+res = res - 7;
 
 console.log(res);
