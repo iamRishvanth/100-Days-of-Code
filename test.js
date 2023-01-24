@@ -1,8 +1,6 @@
-let x = 7;
-let y = 27;
+let x = 5;
+let y = 10;
 
 res = x + y;
-
-res = res - 7;
 
 console.log(res);
